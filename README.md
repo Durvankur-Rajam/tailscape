@@ -1,2 +1,1 @@
-Live Project Link -> tailscape-store.vercel.app/
-
+🔗 **Live Demo:** [tailscape-store.vercel.app](https://tailscape-store.vercel.app/)
